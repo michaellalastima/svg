@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>CL</title>
+		<title>SVG</title>
 			<link rel="stylesheet" type="text/css" href="style.css"/>
 <div class="box">
 <svg>
