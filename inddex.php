@@ -1,3 +1,7 @@
+<html>
+	<head>
+		<title>CL</title>
+			<link rel="stylesheet" type="text/css" href="style.css"/>
 <div class="box">
 <svg>
    <line x1=".30" y1="75" x2="80" y2="0"
@@ -69,4 +73,5 @@
   fill="green" stroke="black" />
   
   </div>
-  
+  </head>
+  </html>
